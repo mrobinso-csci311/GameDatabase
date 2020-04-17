@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GameDatabase</string>
+    <string name="edit_description">
+        Insert name of game to edit
+    </string>
+    <string name="delete_description">
+        Insert name of game to delete
+    </string>
+    <string name="search_description">
+        Insert name of console
+    </string>
+</resources>
